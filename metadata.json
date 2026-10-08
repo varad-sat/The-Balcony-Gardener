@@ -1,0 +1,6 @@
+{
+  "name": "The Balcony Gardener",
+  "description": "A curated blog and guide for growing plants, vibrant herbs, crisp vegetables, and pollinator-friendly flowers in small urban spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
